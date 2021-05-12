@@ -7,7 +7,6 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
  - I have studied Computer Science at Federal University of Paraná (UFPR)
  - Recently I finished my master's degree in Computer Science, also at UFPR, my research covered the following topics:
    - Text classification, graph representation learning,  graph of words, convolutional neural network for text.
- - Currently I work as a tech leader at [Celero](https://celero.com.br/), a startup focused on financial automation.
 
 
 
