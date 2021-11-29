@@ -24,6 +24,6 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
 
 
 Send an email to `marcelaribeirooliveira[at]gmail[dot]com`
-<p align="left">Or, connect me at
+<p align="left">Or, connect with me at
 <a href="https://www.linkedin.com/in/marcelaribeirodeoliveira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelaribeirodeoliveira" height="30" width="40" /></a>
 </p>
