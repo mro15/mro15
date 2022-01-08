@@ -12,13 +12,17 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
  - I also work as a learning facilitator at [Harve Innovation School](https://harve.com.br/), you can find me in these classes: object-oriented programming with python, python for the web with Django, and introduction to javascript.
 
 
-
+### GitHub Stats
 <a href="https://github.com/mro15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mro15&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/mro15?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mro15&show_icons=true&theme=tokyonight&layout=compact&count_private=true" />
 </a>
+
+#### Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mro15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### How to contact me:
 
