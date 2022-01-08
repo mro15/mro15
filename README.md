@@ -22,7 +22,7 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
 
 #### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mro15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mro15&theme=dark_dimmed&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### How to contact me:
 
