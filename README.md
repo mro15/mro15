@@ -11,6 +11,9 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
  - Currently, I am working as Artificial Intelligence Engineer at [Alana AI](https://alana.ai/).
  - I also work as a learning facilitator at [Harve Innovation School](https://harve.com.br/), you can find me in these classes: object-oriented programming with python, python for the web with Django, and introduction to javascript.
 
+### Publications:
+- Text classification problem [on Linkedin](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/?trackingId=A0b6OJYsQke%2BG16A6047sg%3D%3D) [pt-br]
+
 
 ### GitHub Stats
 <a href="https://github.com/mro15">
