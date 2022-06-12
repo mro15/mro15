@@ -9,7 +9,6 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
    - Some results of my dissertation were published at ICAISC 2021 in the paper [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
    - Now, I am working to publish my dissertation's final results.
  - Currently, I am working as Artificial Intelligence Engineer at [Alana AI](https://alana.ai/).
- - I also work as a learning facilitator at [Harve Innovation School](https://harve.com.br/), you can find me in these classes: object-oriented programming with python, python for the web with Django, and introduction to javascript.
 
 ### Publications:
 - Text classification problem [on Linkedin](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/?trackingId=A0b6OJYsQke%2BG16A6047sg%3D%3D) [pt-br]
