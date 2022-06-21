@@ -10,6 +10,12 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
    - Now, I am working to publish my dissertation's final results.
  - Currently, I am working as Artificial Intelligence Engineer at [Alana AI](https://alana.ai/).
 
+### Scientific publications:
+- [Open Educational Resources Platform Based on Collective Intelligence](https://ieeexplore.ieee.org/document/8537851)
+- [Education 4.0: Robotics Projects to Encourage 21st Century Skills](https://seer.ufrgs.br/renote/article/view/110285)
+- [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
+
+
 ### Publications:
 - Text classification problem [on Linkedin](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/?trackingId=A0b6OJYsQke%2BG16A6047sg%3D%3D) [pt-br]
 
