@@ -18,6 +18,7 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
 
 ### Publications:
 - Text classification problem [on Linkedin](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/?trackingId=A0b6OJYsQke%2BG16A6047sg%3D%3D) [pt-br]
+- GLOSSÁRIO BiT: Inteligência Artificial [on Linkedin](https://www.linkedin.com/posts/braziliansintech_braziliansintech-mulheresemtecnologia-brasileirasemtecnologia-activity-6958843720829927424-Uk9r?utm_source=share&utm_medium=member_desktop) [pt-br]
 
 
 ### GitHub Stats
