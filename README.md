@@ -8,7 +8,7 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
    - Text classification, graph representation learning,  graph of words, word association, convolutional neural network for text.
    - Some results of my dissertation were published at ICAISC 2021 in the paper [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
    - Now, I am working to publish my dissertation's final results.
- - Currently, I am working as Artificial Intelligence Engineer at [Alana AI](https://alana.ai/).
+ - Currently, I am open to work. Let's talk!
 
 ### Scientific publications:
 - [Open Educational Resources Platform Based on Collective Intelligence](https://ieeexplore.ieee.org/document/8537851)
