@@ -1,13 +1,14 @@
 ### Hi! 👋
 
-I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
+I am Marcela Ribeiro de Oliveira. I live in Rio Negrinho, Brazil.
 
 ### About me:
 
  - I have a master's and a bachelor's degree in computer science granted by Federal University of Paraná (UFPR). My research covered the following topics:
    - Text classification, graph representation learning,  graph of words, word association, convolutional neural network for text.
    - Some results of my dissertation were published at ICAISC 2021 in the paper [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
- - Currently, I am open to work. Let's talk!
+ - Currently, I am working as Machine Learning Engineer at [Nubank](https://nubank.com.br/)
+ - Recently I spend one year living in Barcelona - Spain and learned a lot of Spanish and the culture of Catalunya.
 
 ### Scientific publications:
 - [Open Educational Resources Platform Based on Collective Intelligence](https://ieeexplore.ieee.org/document/8537851)
@@ -15,7 +16,7 @@ I am Marcela Ribeiro de Oliveira. I live in Curitiba, Brazil.
 - [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
 
 
-### Publications:
+### Other publications:
 - Text classification problem [on Linkedin](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/?trackingId=A0b6OJYsQke%2BG16A6047sg%3D%3D) [pt-br]
 - GLOSSÁRIO BiT: Inteligência Artificial [on Linkedin](https://www.linkedin.com/posts/braziliansintech_braziliansintech-mulheresemtecnologia-brasileirasemtecnologia-activity-6958843720829927424-Uk9r?utm_source=share&utm_medium=member_desktop) [pt-br]
 
