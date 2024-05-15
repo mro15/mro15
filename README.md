@@ -8,7 +8,7 @@ I am Marcela Ribeiro de Oliveira. I live in Rio Negrinho, Brazil.
    - Text classification, graph representation learning,  graph of words, word association, convolutional neural network for text.
    - Some results of my dissertation were published at ICAISC 2021 in the paper [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
  - Currently, I am working as Machine Learning Engineer at [Nubank](https://nubank.com.br/)
- - Recently I spend one year living in Barcelona - Spain and learned a lot of Spanish and the culture of Catalunya.
+ - Recently, I spent one year living in Barcelona, Spain, and learned a lot of Spanish and the culture of Catalonia.
 
 ### Scientific publications:
 - [Open Educational Resources Platform Based on Collective Intelligence](https://ieeexplore.ieee.org/document/8537851)
