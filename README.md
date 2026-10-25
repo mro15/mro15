@@ -1,24 +1,32 @@
-### Hi! 👋
+### Hi! 👋 I'm Marcela
 
-I am Marcela Ribeiro de Oliveira. I live in Rio Negrinho, Brazil.
+I'm a Machine Learning Engineer at [Nubank](https://nubank.com.br/) with a background in Computer Science and a passion for machine learning, natural language processing, and graph representation learning.
 
-### About me:
+I hold both a bachelor's and a master's degree in Computer Science from the [Federal University of Paraná (UFPR)](https://www.ufpr.br/portalufpr/), where my research focused on text classification and graph-based approaches to natural language processing.
 
- - I have a master's and a bachelor's degree in computer science granted by Federal University of Paraná (UFPR). My research covered the following topics:
-   - Text classification, graph representation learning,  graph of words, word association, convolutional neural network for text.
-   - Some results of my dissertation were published at ICAISC 2021 in the paper [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
- - Currently, I am working as Machine Learning Engineer at [Nubank](https://nubank.com.br/)
- - Recently, I spent one year living in Barcelona, Spain, and learned a lot of Spanish and the culture of Catalonia.
+I also spent a year living in Barcelona, Spain, returning to Brazil in May 2024 — an experience that broadened my cultural perspective and allowed me to learn more about Spanish and Catalan culture.
 
-### Scientific publications:
+### 🔬 Research & Publications
+
+My academic research explored the use of graphs to represent and classify text, including graph-of-words representations, pointwise mutual information (PMI), and convolutional neural networks.
+
+**Scientific publications:**
+
 - [Open Educational Resources Platform Based on Collective Intelligence](https://ieeexplore.ieee.org/document/8537851)
 - [Education 4.0: Robotics Projects to Encourage 21st Century Skills](https://seer.ufrgs.br/renote/article/view/110285)
-- [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9)
+- [Using PMI to Rank and Filter Edges in Graphs of Words](https://link.springer.com/chapter/10.1007/978-3-030-87897-9_9) — ICAISC 2021
 
+### ✍️ Other Publications
 
-### Other publications:
-- Text classification problem [on Linkedin](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/?trackingId=A0b6OJYsQke%2BG16A6047sg%3D%3D) [pt-br]
-- GLOSSÁRIO BiT: Inteligência Artificial [on Linkedin](https://www.linkedin.com/posts/braziliansintech_braziliansintech-mulheresemtecnologia-brasileirasemtecnologia-activity-6958843720829927424-Uk9r?utm_source=share&utm_medium=member_desktop) [pt-br]
+- [Text Classification Problem — #MulheresQueMeInspiram](https://www.linkedin.com/pulse/mulheresquemeinspiram-marcela-ribeiro-de-oliveira-vanessa-jatwa/) (Portuguese)
+- [GLOSSÁRIO BiT: Inteligência Artificial](https://www.linkedin.com/posts/braziliansintech_braziliansintech-mulheresemtecnologia-brasileirasemtecnologia-activity-6958843720829927424-Uk9r) (Portuguese)
+
+### 🌱 A Little More About Me
+
+- 🎓 Computer Science graduate from UFPR, with bachelor's and master's degrees.
+- 🤖 Working at the intersection of machine learning and software engineering.
+- 🌍 Lived in Barcelona, Spain, and enjoy exploring new places and cultures.
+- 📚 Curious about new technologies, research, and continuous learning.
 
 
 ### GitHub Stats
@@ -29,12 +37,8 @@ I am Marcela Ribeiro de Oliveira. I live in Rio Negrinho, Brazil.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mro15&show_icons=true&theme=tokyonight&layout=compact&count_private=true" />
 </a>
 
-#### Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mro15&theme=dark_dimmed&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### How to contact me:
-
 
 Send an email to `marcelaribeirooliveira[at]gmail[dot]com`
 <p align="left">Or, connect with me at
